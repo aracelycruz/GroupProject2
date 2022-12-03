@@ -1,0 +1,12 @@
+United Airlines Stops Researcher Who Tweeted about Airplane Network Security from Boarding Flight to Security Conferences
+
+https://www.eff.org/deeplinks/2015/04/united-airlines-stops-researcher-who-tweeted-about-airplane-network-security
+
+Our client, Chris Roberts, a founder of the security intelligence firm One World Labs, found himself detained by the FBI earlier this week after tweeting about airplane network security during a United Airlines flight. When Roberts landed in Syracuse, he was questioned by the FBI, which ultimately seized a number of his electronic devices. EFF attorneys now represent Roberts, and we’re working to get his devices back promptly. But unfortunately last week’s tweet and FBI action isn’t the end of the story.
+
+Roberts was back at the airport on Saturday evening, headed to San Francisco to attend two high-profile security conferences, the RSA Conference, where he is scheduled to present on Thursday, and BSides SF. After Roberts retrieved his boarding pass, made his way through the TSA checkpoint and reached the gate, United corporate security personnel stopped him from boarding the plane. Roberts was told to expect a letter explaining the reasons for not being allowed to travel on United. Thankfully, Roberts was able to book a last-minute flight on another airline and has now landed safely in San Francisco.
+
+Nevertheless, United’s refusal to allow Roberts to fly is both disappointing and confusing. As a member of the security research community, his job is to identify vulnerabilities in networks so that they can be fixed. Indeed, he was headed to RSA speak about security vulnerabilities in a talk called “Security Hopscotch” when attempting to board the United flight.
+
+EFF has long been concerned that knee-jerk responses to legitimate researchers pointing out security flaws can create a chilling effect in the infosec community. EFF’s Coders’ Rights Project is intended to provide counseling and legal representation to individuals facing legal threats, which is why we’re glad to represent Chris Roberts. However, we’d also like to see companies recognize that researchers who identify problems with their products in order to have them fixed are their allies. It would avoid a whole lot of trouble for researchers and make us all more secure.
+

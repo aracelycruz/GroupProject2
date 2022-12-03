@@ -1,0 +1,45 @@
+https://www.latimes.com/business/la-fi-united-flights-grounded-20150708-story.html
+
+United Airlines blames grounding of hundreds of flights on computer glitch
+
+The grounding of hundreds of United Airlines flights because of a computer glitch marked the latest in a series of airline delays and cancellations in the last few years that experts blame on massive, interconnected computer systems that lack sufficient staff and financial backing.
+
+Chicago-based United Airline requested a ground stop for all U.S. departures early Wednesday morning that lasted for nearly 90 minutes. The airline blamed the problem on a failed computer network router that disrupted its reservation system.
+
+The router problem “degraded network connectivity for various applications,” said Jennifer Dohm, United spokeswoman.
+
+United attributed 59 canceled flights and more than 800 delays to the computer problems. Ten flights out of Los Angeles International Airport were delayed, according to LAX officials.
+
+The latest glitch is sure to hurt United’s already tarnished reputation for consumer service, said George Hobica, founder of Airfarewatchdog.com, a fare comparison site that ranked United last among major carriers in a passenger survey last year.
+
+“It’s definitely a black eye for an airline that is already at the bottom of the ratings,” he said.
+
+The cancellations and delays were not the first time that United blamed computer glitches for such problems.
+
+A malfunction briefly shut down the airline’s computers in February 2014, delaying takeoffs and frustrating hundreds of passengers. Computer problems were also blamed for hundreds of delayed United flights in August and November 2012.
+
+Some experts suggested that the computer problems originated when United merged its reservation system with that of Continental Airlines starting in 2010.
+
+Other airlines have reported similar problems in the last few years.
+
+Last year, Delta Air Lines reported computer problems that produced super-cheap fares, while Alaska Airlines had a computer glitch that offered a promotional deal that expired before passengers could book it.
+
+American Airlines had to ground flights for more than two hours because of a malfunctioning computer in April 2013.
+
+Computer experts say the problems could be blamed on the use of larger and more complicated computer systems that are not supported with sufficient staffing, testing or backup systems.
+
+“If a router fails, it should not create any problem at all,” said Anthony Roman, a former commercial airline pilot and president of Roman & Associates Inc., a global investigation and risk management firm. “All major conglomerates should have redundant systems so that regardless of what fails you have a seamless operation.”
+
+In a statement, United said its network is reliable and includes redundant systems, “but we continue to invest and improve on the reliability of those networks to deliver better service to our customers.”
+
+A survey released last month by SITA, a multinational airline technology company, found that carriers worldwide plan to invest heavily in Internet-based technology over the next three years to help speed passengers through the airport and give travelers real-time flight updates and gate change information.
+
+Airline computer systems are now tied to ticketing kiosks and automatic luggage drop-off machines, among other high-tech add-ons.
+
+But as airline computer systems become larger and more interconnected, airline executives need to understand how important it is that the systems be well maintained and staffed, said Bill Curtis, senior vice president and chief scientist at Cast, a software analysis and measurement company in New York.
+
+“In general, there is simply not enough appreciation for the importance of software,” he said.
+
+Airline computer problems seem to be on the rise, experts say, since a series of airline mergers in the last decade have forced carriers to combine the booking or scheduling systems of two airlines. Nearly 80% of all domestic flights are under the control of four giant airlines: Southwest, American, Delta and United.
+
+The problem of computer glitches has become so common that American Airlines announced in May that it planned to combine its reservation system with that of US Airways over a 90-day period to reduce the chances of a system failure.
