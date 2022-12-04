@@ -1,0 +1,32 @@
+United Airlines Q4 2021 Earnings Report Recap
+UAL beat on earnings and revenues, missed on load factor
+By NATHAN REIFF Published January 20, 2022
+KEY TAKEAWAYS
+United Airlines' load factor came in below analyst predictions, although it reached the highest level in two years.
+Load factor measures the percentage of an airline's seating capacity that is filled with paying passengers.
+Despite the impact of the omicron COVID-19 variant, the company expects demand to continue to increase throughout 2022.
+United Airlines Earnings Results
+Metric	Beat/Miss/Match	Reported Value	Analysts' Prediction
+Adjusted EPS ($)	Beat	-1.60	-1.99
+Revenue ($B)	Beat	8.2	8.0
+Load Factor	Miss	77.0%	77.4%
+Source: Predictions based on analysts’ consensus from Visible Alpha
+
+United Airlines (UAL) Financial Results: Analysis
+United Airlines Holdings, Inc. (UAL) reported Q4 FY 2021 results that surpassed analyst predictions for both adjusted earnings per share (EPS) and revenue. Adjusted EPS was -$1.60, narrower than the -$1.99 analysts had predicted and an improvement over adjusted EPS of -$7.00 from Q4 FY 2020. Revenue was somewhat ahead of analyst expectations as well, as United reported $8.2 billion compared with a predicted $8.0 billion and $3.4 billion in the prior-year quarter.
+1
+
+United Load Factor
+United's load factor improved dramatically year over year (YOY). The company reported load factor of 77.0%, compared with 55.6% for Q4 FY 2020. Nonetheless, load factor was still slightly lower than analyst predictions and below the typical pre-pandemic range. Consensus estimates had placed load factor at 77.4% for Q4 FY 2021.
+1
+
+Load factor is a key metric used in the airline industry to indicate the percentage of a carrier's available seats that are filled with paying passengers. Because the costs of sending an aircraft into flight are relatively the same whether there are 50 people aboard or 100, airlines have a strong incentive to fill as many seats as possible by selling more tickets. Higher load factors mean that an airline's fixed costs are spread across a greater number of passengers, making the airline more profitable.
+
+
+United Guidance and Stock Performance
+United stated in its earnings release that bookings for spring travel and beyond "remain strong" despite continuing concerns around the COVID-19 pandemic. The airline plans to ramp up capacity throughout 2022 by ungrounding 52 Boeing 777 aircraft as demand returns. Still, United expects to fly fewer available seat miles (ASM) in 2022 compared to 2019. The airline predicts capacity for Q1 FY 2022 to be down 16% to 18% compared with Q1 FY 2019 and that 2022 capacity more broadly will be down relative to 2019. The company did not provide revenue guidance in the press release.
+1
+
+United shares were up more than 2.0% in pre-market trading following the earnings release. The company has provided one-year trailing total returns of 8.4%, below total returns of 19.3% for the S&P 500.
+2
+ United's next earnings report (for Q1 FY 2022) is expected to be released on April 18, 2022.
